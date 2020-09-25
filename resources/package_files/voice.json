@@ -1,0 +1,41 @@
+{
+
+  "የወር": [
+    {
+      "amount": "500 MB",
+      "price": "55 Birr"
+    },
+    {
+      "amount": "1 GB",
+      "price": "100 Birr"
+    },
+    {
+      "amount": "2 GB",
+      "price": "190 Birr"
+    },
+    {
+      "amount": "4 GB",
+      "price": "350 Birr"
+    },
+    {
+      "amount": "8 GB",
+      "price": "600 Birr"
+    },
+    {
+      "amount": "10 GB",
+      "price": "700 Birr"
+    },
+    {
+      "amount": "20 GB",
+      "price": "1,300 Birr"
+    },
+    {
+      "amount": "30 GB",
+      "price": "1,800 Birr"
+    },
+    {
+      "amount": "Unlimited",
+      "price": "4,900 Birr"
+    }
+  ]
+}
