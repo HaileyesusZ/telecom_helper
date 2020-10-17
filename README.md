@@ -1,7 +1,6 @@
 # telecom_helper
 
-telecom helper
-A way for Ethio Telecom Subscribers to purchase data,sms, and voice packages easily.
+**A way for Ethio Telecom Subscribers to purchase data,sms, and voice packages easily.**
 
 ## Getting Started
 
